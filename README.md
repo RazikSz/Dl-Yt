@@ -25,7 +25,7 @@ Sebelum menjalankan API, pastikan server sudah memiliki:
 
 ### **1️⃣ Clone Repository (Opsional)**
 ```sh
-git clone https://github.com/RyzenOfc/yt-downloader-api.git
+git clone https://github.com/RazikSz/yt-downloader-api.git
 cd yt-downloader-api
 ```
 Atau upload file manual ke server.
@@ -134,11 +134,10 @@ GET /search?query=rickroll
 
 ## **👨‍💻 Author**
 **Nama:** ライゼン
-**GitHub:** [Klik disini](https://github.com/RyzenOfc)
-**YouTube:** [Klik disini](https://youtube.com/@RyzenMFK) 
-**Facebook:** [Klik disini](https://www.facebook.com/algifaryz04)
-**Instagram:** [Klik disini](https://www.instagram.com/algifaryz_)
-**Pinterest:** [Klik disini](https://pin.it/3DuWyNxEx)
+**GitHub:** [Klik disini](https://github.com/RazikSz)
+**YouTube:** [Klik disini](https://youtube.com/@ZkrEdtz) 
+**Instagram:** [Klik disini](https://www.instagram.com/prz_cyber)
+
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/147589149?v=4" width="100" height="100" alt="ライゼン">
